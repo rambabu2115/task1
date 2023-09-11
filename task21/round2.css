@@ -1,0 +1,15 @@
+  .canvas {
+            border: 1px solid black;
+            display: block;
+            margin: 0 auto;
+        }
+.move{
+  background:lightgreen;
+}
+.m{
+  background: red;
+}
+.n{
+  color:green;
+  font-size: 50px;
+}
